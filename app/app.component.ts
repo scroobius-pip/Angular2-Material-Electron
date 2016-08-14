@@ -5,6 +5,7 @@ import {MaterializeDirective} from "angular2-materialize";
     selector: 'myapp',
     templateUrl: 'app.component.html',
         directives: [MaterializeDirective],
+   
 
 })
 
